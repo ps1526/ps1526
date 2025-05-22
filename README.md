@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there 👋
 
 I'm Pranav, a student at UCSD studying Data Science. 
 

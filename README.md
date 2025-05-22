@@ -7,7 +7,9 @@ I'm currently a Ledell Scholar, working on large scale knowledge graph embedding
 Additionally, I am currently working as a:
 
 **Data Engineering Intern** @ National Nanotechnology Coordination Office
+
 **Researcher** @ UCSD Chiba Lab
+
 **Machine Learning Engineer** @ MimansaPlay
 
 If you want to learn more about my work, feel free to check out my personal website here: https://www.pranavsingh.dev 

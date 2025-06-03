@@ -2,11 +2,11 @@
 
 I'm Pranav, a student at UCSD studying Data Science. 
 
-I'm currently a Ledell Scholar, working on large scale knowledge graph embeddings for LLM augmentation and link prediction.
+I'm currently a **Ledell Scholar**, working on **large scale knowledge graph embeddings for LLM augmentation and link prediction**.
 
 Additionally, I am currently working as a:
 
-**Data Engineering Intern** @ National Nanotechnology Coordination Office
+**Research Intern** @ National Nanotechnology Coordination Office
 
 **Researcher** @ UCSD Chiba Lab
 

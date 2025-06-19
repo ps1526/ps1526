@@ -2,7 +2,10 @@
 
 I'm Pranav, a student at UCSD studying Data Science. 
 
-I'm currently a **Ledell Scholar**, working on **large scale knowledge graph embeddings for LLM augmentation and link prediction**.
+I'm currently a **Ledell Scholar**, working with Prof. Justin Eldridge on **large scale knowledge graph embeddings** and **GNN-LLM Hybrid Model Architectures**.
+
+My research interests are knowledge graphs, knowledge injection into large language models, hallucination mitigation, large scale graph learning, and deep learning based graph embeddings.
+I also have experience with software and data engineering, working on a variety of projects. 
 
 Additionally, I am currently working as a:
 

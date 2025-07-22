@@ -13,7 +13,7 @@ Additionally, I am currently working as a:
 
 **Researcher** @ UCSD Chiba Lab
 
-**Machine Learning Engineer** @ MimansaPlay
+**Machine Learning Enginee Internr** @ MimansaPlay
 
 If you want to learn more about my work, feel free to check out my personal website here: https://www.pranavsingh.dev 
 or check out any of my projects below!

@@ -11,7 +11,7 @@ Additionally, I am currently working as a:
 
 **Research Intern** @ National Nanotechnology Coordination Office
 
-**Researcher** @ UCSD Chiba Lab
+**Research Assistant** @ UCSD Chiba Lab
 
 **Machine Learning Engineer Intern** @ MimansaPlay
 

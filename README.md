@@ -2,18 +2,17 @@
 
 I'm Pranav, a student at UCSD studying Data Science. 
 
-I'm currently a **Ledell Scholar**, working with Prof. Justin Eldridge on **large scale knowledge graph embeddings** and **GNN-LLM Hybrid Model Architectures**.
+I'm currently working on research related to geometric deep learning, graph neural networks, and non-Euclidean foundation models, as well as how we as humans learn from our environemnt. 
 
-My research interests are knowledge graphs, knowledge injection into large language models, hallucination mitigation, large scale graph learning, and deep learning based graph embeddings.
-I also have experience with software and data engineering, working on a variety of projects. 
+Some of the current projects I am working on include 
+- Reinforcement Learning for Hierarchical Clustering + Neural Algorithmic Reasoning 
+- Hyperbolic RAG pipelines for document retrieval
+- Audio pipelines for stress detection and speaker seaparation
 
-Additionally, I am currently working as a:
-
-**Research Intern** @ National Nanotechnology Coordination Office
-
-**Research Assistant** @ UCSD Chiba Lab
-
-**Machine Learning Engineer Intern** @ MimansaPlay
+Previously, I was a 
+- **Ledell Scholar**, working with Prof. Justin Eldridge on **large scale knowledge graph embeddings** and **GNN-LLM Hybrid Model Architectures**
+- **Research Intern** @ National Nanotechnology Coordination Office
+- **Machine Learning Engineer Intern** @ MimansaPlay
 
 If you want to learn more about my work, feel free to check out my personal website here: https://www.pranavsingh.dev 
 or check out any of my projects below!
